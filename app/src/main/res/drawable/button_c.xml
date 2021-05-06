@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple
+    android:color="#FFFF00"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape>
+
+            <solid
+                android:width="2dp"
+                android:color="@color/Buttons_Color"/>
+
+            <corners
+                android:radius="25dp"/>
+
+        </shape>
+    </item>
+
+
+
+</ripple>
+
+<!--    android:color="#E53935"/>-->
+    <!--        android:topLeftRadius="25dp"-->
+    <!--        android:bottomRightRadius="25dp"-->
+    <!--        />-->
+
+
+<!--    android:color="#7C4DFF"/>-->
